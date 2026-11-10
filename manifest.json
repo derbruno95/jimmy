@@ -1,0 +1,15 @@
+{
+  "name": "Jimmy",
+  "short_name": "Jimmy",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f3f3f7",
+  "theme_color": "#ef3d6b",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/d/10yEpdyqWG7xZ1qH1TsYuPVfnBxOwSEdC",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
